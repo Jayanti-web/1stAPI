@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id":1,
+            "name": "Amir",
+            "city":"HBD"
+        },
+        {
+            "id":2,
+            "name": "Sushmita",
+            "city":"LKO"
+        },
+        {
+            "id":3,
+            "name": "Anshika",
+            "city":"KNP"
+        },
+        {
+            "id":4,
+            "name": "Anushka",
+            "city":"HBD"
+        },
+        {
+            "id":5,
+            "name": "Mayuresh",
+            "city":"MZP"
+        },
+        {
+            "id":6,
+            "name": "Hina",
+            "city":"GKP"
+        }
+    ]
+  }
